@@ -7,6 +7,8 @@
  
  Making websites using wordpress.
  
- How to reach me:a<href="mailto:pwnrijal@gmail.com">Get in touch</a>
+ How to reach me:
+ 
+ Email:pwnrijal@gmail.com
  
  I try to: go beyond and push the bounds.
