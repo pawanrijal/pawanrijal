@@ -1,5 +1,5 @@
  I am Pawan Rijal.👋
-
+[![HitCount](http://hits.dwyl.com/pawanrijal/pawanrijal.svg)](http://hits.dwyl.com/pawanrijal/pawanrijal)
 
  🌱 I’m currently studying Bsc.CSIT(4th semester) at Texas International College.
  
