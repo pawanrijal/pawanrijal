@@ -6,8 +6,6 @@
  
  Learning everyday, Currently learning django-python
  
- Making websites using wordpress.
- 
  How to reach me:
  
  Email:pwnrijal@gmail.com
