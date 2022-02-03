@@ -4,7 +4,7 @@
 
  🌱 I’m currently studying Bsc.CSIT(5th semester) at Texas International College.
  
- Learning everyday, Currently learning django-python
+ Learning everyday, Currently learning NodeJS
  
  How to reach me:
  
