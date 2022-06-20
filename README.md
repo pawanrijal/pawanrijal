@@ -2,7 +2,7 @@
 
 [![HitCount](http://hits.dwyl.com/pawanrijal/pawanrijal.svg)](http://hits.dwyl.com/pawanrijal/pawanrijal)
 
- 🌱 I’m currently studying Bsc.CSIT(5th semester) at Texas International College.
+ 🌱 I’m currently studying Bsc.CSIT(6th semester) at Texas International College.
  
  Learning everyday, Currently learning NodeJS
  
