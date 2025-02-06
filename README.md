@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pwnrijal@gmail.com**
 
-- My website link: [https://pawanrijal.vercel.app](https://pawanrijal.vercel.app)
+- My website link: [https://pawan-rijal.vercel.app](https://pawan-rijal.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
